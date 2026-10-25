@@ -24,6 +24,7 @@
 ## 业务类
  1. Appium
  2. [AirtestIDE](http://airtest.netease.com/docs/docs_AirtestIDE-zh_CN/index.html) 跨平台的UI自动化测试编辑器，适用于游戏和App。
+ 3. [agent-qa](https://www.vostride.com) 用自然语言测试 Web、Android 和 iOS，具备持久记忆与经验证的自我改进能力，提供 CLI、MCP 和 Skills。
 ## 体验
  1. Jmeter
  2. Loadrunner
